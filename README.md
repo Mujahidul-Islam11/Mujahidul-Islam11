@@ -1,6 +1,9 @@
-[![Mohammad Mojahidul Islam ](https://raw.githubusercontent.com/Mujahidul-Islam11/Mujahidul-Islam11/491dc937b345c4a4ddb8df1a5339899727cf0418/images/banner.png)](
-    https://www.linkedin.com/in/mohammad-mojahidul-islam-71675629b/
-)
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohammad-mojahidul-islam-71675629b/" target="_blank">
+    <img src="https://raw.githubusercontent.com/Mujahidul-Islam11/Mujahidul-Islam11/491dc937b345c4a4ddb8df1a5339899727cf0418/images/banner.png" alt="Mohammad Mojahidul Islam">
+  </a>
+</p>
+
 <h1 align="center">Hi 👋, I'm Mohammad Mojahidul Islam</h1>
 <h3 align="center">Greetings! I'm Mojahidul, a front-end developer skilled in the art of Tailwind CSS. Combined with the power of ReactJS, I create sleek and responsive web pages that strike the perfect balance between form and function. I am also familiar with some basics of back end tools like expressJs, NodeJs and MongoDB</h3>
 
