@@ -2,7 +2,11 @@
     https://www.linkedin.com/in/mohammad-mojahidul-islam-71675629b/
 )
 ## Hi there, I am Mohammad Mojahidul Islam👋
-
+### 📫 How to reach me:
+- email : web.dev.dinar@gmail.com
+- phone & whatsApp : 01889112836
+- facebook : [Mohammad Mojahidul Islam](https://www.facebook.com/profile.php?id=61552796227649)
+- linked-in : [Mohammad Mojahidul Islam](https://www.linkedin.com/in/mohammad-mojahidul-islam-71675629b/)
 <!--
 **Mujahidul-Islam11/Mujahidul-Islam11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
