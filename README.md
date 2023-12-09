@@ -2,6 +2,8 @@
     https://www.linkedin.com/in/mohammad-mojahidul-islam-71675629b/
 )
 ## Hi there, I am Mohammad Mojahidul Islam👋
+### 📈 Current Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mujahidul-Islam11)](https://git.io/streak-stats)
 ### 📫 How to reach me:
 - email : web.dev.dinar@gmail.com
 - facebook : [Mohammad Mojahidul Islam](https://www.facebook.com/profile.php?id=61552796227649)
