@@ -5,7 +5,7 @@
 ## About Me :
 Greetings! I'm Mojahidul, a front-end developer skilled in the art of Tailwind CSS. Combined with the power of ReactJS, I create sleek and responsive web pages that strike the perfect balance between form and function. I am also familiar with few basics of back end tools like expressJs, NodeJs and MongoDB
 ### 📈 Current Stats
-<h2  align="center>[![GitHub Streak](https://streak-stats.demolab.com?user=Mujahidul-Islam11)](https://git.io/streak-stats)</h2>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mujahidul-Islam11)](https://git.io/streak-stats)
 ### 📫 How to reach me:
 - email : web.dev.dinar@gmail.com
 - facebook : [Mohammad Mojahidul Islam](https://www.facebook.com/profile.php?id=61552796227649)
