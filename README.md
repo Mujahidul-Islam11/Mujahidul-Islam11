@@ -1,10 +1,9 @@
 [![Mohammad Mojahidul Islam ](https://raw.githubusercontent.com/Mujahidul-Islam11/Mujahidul-Islam11/491dc937b345c4a4ddb8df1a5339899727cf0418/images/banner.png)](
     https://www.linkedin.com/in/mohammad-mojahidul-islam-71675629b/
 )
-## Hi there, I am Mohammad Mojahidul Islam👋
+## Hi there, I am Mohammad Mojahidul Islam(https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif)
 ### 📫 How to reach me:
 - email : web.dev.dinar@gmail.com
-- phone & whatsApp : 01889112836
 - facebook : [Mohammad Mojahidul Islam](https://www.facebook.com/profile.php?id=61552796227649)
 - linked-in : [Mohammad Mojahidul Islam](https://www.linkedin.com/in/mohammad-mojahidul-islam-71675629b/)
 <!--
