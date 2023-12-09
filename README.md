@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Mohammad Mojahidul Islam</h1>
-<h3 align="center">Greetings! I'm Mojahidul, a front-end developer skilled in the art of Tailwind CSS. Combined with the power of ReactJS, I create sleek and responsive web pages that strike the perfect balance between form and function. I am also familiar with some basics of back end tools like expressJs, NodeJs and MongoDB</h3>
+<h3 align="center">Greetings! I'm Mojahidul, a junior front-end developer skilled in the art of Tailwind CSS. Combined with the power of ReactJS, I create sleek and responsive web pages that strike the perfect balance between form and function. I am also familiar with some basics of back end tools like expressJs, NodeJs and MongoDB</h3>
 
 
 <p align="left"> <a href="https://twitter.com/dinarweb14783" target="blank"><img src="https://img.shields.io/twitter/follow/dinarweb14783?logo=twitter&style=for-the-badge" alt="dinarweb14783" /></a> </p>
