@@ -2,6 +2,8 @@
     https://www.linkedin.com/in/mohammad-mojahidul-islam-71675629b/
 )
 ## Hi there, I am Mohammad Mojahidul Islam 👋
+## About Me :
+Greetings! I'm Mojahidul, a front-end developer skilled in the art of Tailwind CSS. Combined with the power of ReactJS, I create sleek and responsive web pages that strike the perfect balance between form and function.
 ### 📈 Current Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=Mujahidul-Islam11)](https://git.io/streak-stats)
 ### 📫 How to reach me:
