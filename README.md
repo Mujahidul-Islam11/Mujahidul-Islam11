@@ -4,8 +4,8 @@
   </a>
 </p>
 
-<h1 align="center">Hey 👋, I'm Mohammad Mojahidul Islam</h1>
-<p align="center">Greetings! I'm a junior front-end developer skilled in the art of Tailwind CSS. Combined with the power of ReactJS, I create sleek and responsive web pages that strike the perfect balance between form and function. I am also familiar with some basics of back-end tools like ExpressJs, NodeJs, and MongoDB</p>
+<h2 align="center">Hey 👋, I'm Mohammad Mojahidul Islam</h2>
+<h5 align="center">Greetings! I'm a junior front-end developer skilled in the art of Tailwind CSS. Combined with the power of ReactJS, I create sleek and responsive web pages that strike the perfect balance between form and function. I am also familiar with some basics of back-end tools like ExpressJs, NodeJs, and MongoDB</h5>
 
 
 <p align="left"> <a href="https://twitter.com/dinarweb14783" target="blank"><img src="https://img.shields.io/twitter/follow/dinarweb14783?logo=twitter&style=for-the-badge" alt="dinarweb14783" /></a> </p>
