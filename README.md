@@ -1,10 +1,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammad-mojahidul-islam-71675629b/" target="_blank">
-<<<<<<< HEAD
     <img src="./images/banner-1.png" alt="Mohammad Mojahidul Islam">
-=======
-    <img src="https://raw.githubusercontent.com/Mujahidul-Islam11/Mujahidul-Islam11/491dc937b345c4a4ddb8df1a5339899727cf0418/images/banner.png" alt="Mohammad Mojahidul Islam">
->>>>>>> c4f531e84b7c7c1adb08402c680db034b61804e1
   </a>
 </p>
 
