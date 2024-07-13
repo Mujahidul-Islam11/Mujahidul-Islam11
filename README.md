@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/dinarweb14783" target="blank"><img src="https://img.shields.io/twitter/follow/dinarweb14783?logo=twitter&style=for-the-badge" alt="dinarweb14783" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **MERN Stack & NextJs**
 
 - 📫 How to reach me **web.dev.dinar@gmail.com**
 
