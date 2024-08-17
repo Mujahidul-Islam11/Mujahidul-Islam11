@@ -8,7 +8,7 @@
 <p align="center">Greetings! I'm a junior front-end developer skilled in the art of Tailwind CSS. Combined with the power of ReactJS, I create sleek and responsive web pages that strike the perfect balance between form and function. I am also familiar with some basics of back-end technologies like ExpressJs, NodeJs, and MongoDB</p>
 
 
-<p align="left"> <a href="https://x.com/Md_Mojahidul_96" target="blank"><img src="https://img.shields.io/twitter/follow/dinarweb14783?logo=twitter&style=for-the-badge" alt="Md_Mojahidul_96" /></a> </p>
+<p align="left"> <a href="https://x.com/Md_Mojahidul_96" target="blank"><img src="https://img.shields.io/twitter/follow/Md_Mojahidul_96?logo=twitter&style=for-the-badge" alt="Md_Mojahidul_96" /></a> </p>
 
 - 🌱 I’m currently learning **MERN Stack & NextJs**
 
